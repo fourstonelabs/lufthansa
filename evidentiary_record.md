@@ -5,7 +5,8 @@
 **Prepared By:** Gordon Kelly  
 **Booking Reference:** 7MNCBE  
 **Flight:** LH467 – San Diego (SAN) → Munich (MUC)  
-**Date of Cancellation:** 23 June 2026
+**Date of Cancellation:** 23 June 2026  
+**Submission Date:** 26 June 2026
 
 ---
 
@@ -39,13 +40,13 @@ Baggage Tag Numbers:
 * 0220272283  
 * 0220272244
 
-Supporting baggage receipts are attached.
+Supporting baggage receipt emails are attached.
 
 ---
 
-### **17:35 PDT**
+### **~16:17 PDT**
 
-A delay notification email was received from Lufthansa.
+Lufthansa sent a delay notification email revising the departure time for LH467 to **17:35 PDT**.
 
 A copy of this email is attached.
 
@@ -183,6 +184,8 @@ Lufthansa issued a cancellation email stating that flight LH467 had been cancell
 
 A copy of this email is attached.
 
+This written reason is consistent with what passengers were told onboard: following the cumulative operational delays described above, the captain advised that duty-hour limitations prevented the flight crew from legally operating the flight.
+
 ---
 
 # **2\. Detailed Passenger Narrative**
@@ -277,6 +280,8 @@ The photographs are provided to illustrate the volume of affected passengers and
 
 # **5\. Accommodation Considerations**
 
+Following cancellation, Lufthansa did not provide hotel accommodation, meal vouchers, or transportation assistance to our family. Under Article 9 of EU261, passengers facing rebooking following cancellation are entitled to care from the operating carrier, including meals and accommodation where necessary. No such care was offered or provided; we have incurred documented meal and transportation costs to date.
+
 Following cancellation, our family investigated accommodation options near San Diego International Airport.
 
 A major event was taking place in San Diego at the time.
@@ -321,51 +326,141 @@ Baggage Tag Numbers:
 * 0220272283  
 * 0220272244
 
+We paid for three bags on the original itinerary but checked only two at the airport.
+
 Supporting documentation attached:
 
-* Baggage receipts.  
-* Baggage tags.  
-* Original baggage fee documentation.
+* Baggage receipt emails (including baggage tag numbers).  
+* American Express card statement documenting six Lufthansa excess baggage charges of $90.00 each ($540.00 total).
 
-As a direct consequence of Lufthansa's cancellation and rebooking, additional baggage fees are expected to be incurred on the replacement itinerary operated by United Airlines.
-
-Supporting documentation will be submitted following completion of travel.
+As a direct consequence of Lufthansa's cancellation and rebooking, additional baggage fees were incurred on the replacement itinerary operated by United Airlines. Outbound fees ($210.00) are paid and receipt attached; return fees ($210.00) are anticipated and not yet paid.
 
 ---
 
 # **7\. Expense Documentation**
 
-Currently documented expenses include:
-
 ## **Transportation**
 
-Uber – Airport to The Melt Gaslamp
+### **Uber – Airport to The Melt Gaslamp**
 
-Amount:
+Date: 23 June 2026
 
-$30.48
-
-Receipt attached.
-
-Uber – Airport Area to Residence
-
-Amount:
-
-$114.81
+Amount: **$30.48**
 
 Receipt attached.
 
-## **Meal Expense**
+### **Uber – Airport Area to Residence**
 
-The Melt Gaslamp
+Date: 23 June 2026
 
-Amount:
-
-$62.83
+Amount: **$114.81**
 
 Receipt attached.
 
-Additional expenses will be added following completion of travel.
+### **Uber – Residence back to Airport**
+
+Date: 25 June 2026
+
+Anticipated — not yet incurred. Scheduled for approximately 03:00.
+
+### **Transportation Total (Documented)**
+
+**$145.29**
+
+---
+
+## **Meals**
+
+### **The Melt Gaslamp**
+
+Date: 23 June 2026
+
+Amount: **$62.83**
+
+Receipt attached.
+
+### **Lunch – 24 June 2026**
+
+#### **Burger Lounge Del Sur**
+
+Time: 11:30
+
+Amount: **$15.03**
+
+Receipt attached (Attachment U).
+
+#### **Luna Grill**
+
+Time: 13:42
+
+Amount: **$8.61**
+
+Receipt attached (Attachment V).
+
+#### **Fish District Seafood Kitchen**
+
+Time: 14:56
+
+Amount: **$65.25**
+
+Receipt attached (Attachment V).
+
+**Lunch Subtotal: $88.89**
+
+### **Dinner – 24 June 2026**
+
+#### **Karl Strauss Brewing Company (4S Ranch)**
+
+Time: 20:11
+
+Amount: **$178.80** (includes $30.32 tip)
+
+Receipt attached (Attachment W).
+
+### **Meals Total (Documented)**
+
+**$330.52**
+
+---
+
+## **Original Lufthansa Baggage Charges**
+
+### **Checked baggage fees paid to Lufthansa for the original itinerary:**
+
+Amount: **$540.00**
+
+Supporting documentation attached: American Express card statement showing six Lufthansa excess baggage charges of $90.00 each.
+
+---
+
+## **Replacement Airline Baggage Charges**
+
+### **Checked baggage fees paid to United Airlines for the replacement itinerary:**
+
+Outbound: **$210.00**
+
+Supporting documentation attached.
+
+Return: **$210.00**
+
+Anticipated — not yet paid.
+
+### **Baggage Charges Total (Documented)**
+
+**$750.00**
+
+---
+
+## **Current Documented Expenses**
+
+| Category | Amount |
+| :---- | :---- |
+| Transportation | $145.29 |
+| Baggage Fees | $750.00 |
+| Meals | $330.52 |
+| **Current Total** | **$1,225.81** |
+
+Anticipated expenses not yet incurred will be documented once they occur, including return Uber to the airport (scheduled approximately 03:00, 25 June 2026) and United Airlines return baggage fees ($210.00).
 
 ---
 
@@ -380,7 +475,20 @@ Supporting documentation attached:
 * Reservation confirmation.  
 * Reminder email dated 22 June 2026 at 07:28.
 
-The approximately 48-hour delay to our arrival in Poland materially impacted previously arranged transportation plans.
+We prepaid **$344.69** for a rental from **24 June 2026 at 17:00** through **29 June 2026 at 12:00** at Kraków Airport. Due to the cancellation of LH467, our arrival was delayed until **26 June 2026 at approximately 09:30**, roughly **40.5 hours** (~two days) after the scheduled pickup.
+
+Because the rental was prepaid, this delay represents prepaid rental time for which we received no value. A pro-rata estimate of that loss is calculated as follows:
+
+| Item | Value |
+| :---- | :---- |
+| Prepaid rental total | $344.69 |
+| Planned rental period | 115 hours (24 Jun 17:00 – 29 Jun 12:00) |
+| Delayed pickup period | 40.5 hours (24 Jun 17:00 – 26 Jun ~09:30) |
+| **Estimated loss of rental value** | **$121.39** |
+
+Calculation: $344.69 × (40.5 ÷ 115) = **$121.39**
+
+We will still use the vehicle from pickup on 26 June through return on 29 June; this figure reflects only the portion of the prepaid rental period lost due to delayed arrival.
 
 Documentation relating to this reservation has been included for review.
 
@@ -408,20 +516,24 @@ These photographs are provided to document the conditions experienced by passeng
 | C | Lufthansa Ticket Receipt – Oliver Kelly |
 | D | Lufthansa Ticket Receipt – Alexander Kelly |
 | E | Original Itinerary |
-| F | Rebooked Itinerary |
-| G | Delay Notification Email (17:35 PDT) |
+| F | Rebooked Itinerary – UA1069 Boarding Passes (SAN→ORD) and LO2098 Boarding Passes (ORD→KRK), all passengers |
+| G | Delay Notification Email (~16:17 PDT; revised departure 17:35 PDT) |
 | H | Cancellation Email (19:43 PDT) |
-| I | Baggage Receipt |
-| J | Baggage Tag Documentation |
+| I | Baggage Receipt Emails (including tag numbers 0220272283, 0220272244) |
+| J | United Airlines Outbound Baggage Receipt ($210.00) |
 | K | Hertz Reservation Confirmation L62420103A8 |
 | L | Hertz Reminder Email |
 | M | Uber Receipt – Airport to The Melt ($30.48) |
 | N | Meal Receipt – The Melt Gaslamp ($62.83) |
-| O | Uber Receipt – Residence ($114.81) |
+| O | Uber Receipt – Airport Area to Residence ($114.81); return trip anticipated 25 June ~03:00 |
 | P | Witness Photograph |
 | Q | Witness Email Exchange |
 | R | Airport Queue Photograph(s) |
 | S | Additional Supporting Photographs |
+| T | American Express Card Statement – Lufthansa Excess Baggage (6 × $90.00 = $540.00) |
+| U | Lunch Receipt – Burger Lounge Del Sur ($15.03) |
+| V | Lunch Receipts – Luna Grill ($8.61) and Fish District ($65.25) |
+| W | Dinner Receipt – Karl Strauss Brewing Company ($178.80) |
 
 ---
 

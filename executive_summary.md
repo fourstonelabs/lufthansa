@@ -3,10 +3,12 @@
 ## **Executive Summary, Passenger Rights Claim and Expense Reimbursement**
 
 **Prepared By:** Gordon Kelly  
+**Email:** gordon.kelly@gmail.com  
+**Phone:** +1 858 449-2066  
 **Booking Reference:** 7MNCBE  
 **Flight:** LH467 – San Diego (SAN) → Munich (MUC)  
 **Date of Cancellation:** 23 June 2026  
-**Submission Date:** 25 June 2026
+**Submission Date:** 26 June 2026
 
 ---
 
@@ -25,22 +27,23 @@ This claim concerns four passengers travelling under a single reservation:
 
 Our original itinerary was scheduled to depart San Diego on 23 June 2026 and arrive in Kraków on 24 June 2026\.
 
-Following the cancellation of LH467, Lufthansa rebooked our family onto an alternative itinerary departing on 25 June 2026 and arriving in Kraków on 26 June 2026 at 09:10, resulting in an approximate two-day delay to our final destination.
+Following the cancellation of LH467, Lufthansa rebooked our family onto an alternative itinerary departing on 25 June 2026 and arriving in Kraków on 26 June 2026 at 09:30, resulting in an approximate two-day delay to our final destination.
 
 Lufthansa's cancellation notice, included within this submission, states that LH467 was cancelled due to a **"lack of the planned crew."**
 
 The cancellation occurred after passengers had boarded the aircraft and following a prolonged series of operational delays that were communicated to passengers by Lufthansa personnel and the flight crew.
 
-As a direct consequence of the cancellation, my family incurred additional transportation, meal, baggage, and travel-related expenses. We also experienced disruption to pre-arranged travel arrangements associated with our arrival in Poland.
+As a direct consequence of the cancellation, my family has incurred and anticipates additional transportation, meal, baggage, and travel-related expenses. We also experienced disruption to pre-arranged travel arrangements associated with our arrival in Poland.
 
 This submission contains:
 
 * Lufthansa ticket receipts for all four passengers.  
 * Original and rebooked itineraries.  
 * Delay and cancellation notifications.  
-* Checked baggage documentation and baggage tag records.  
+* Checked baggage receipt emails (including baggage tag numbers).  
+* American Express card statement documenting original Lufthansa excess baggage fees (6 × $90.00).  
 * Transportation and meal receipts.  
-* Documentation relating to additional baggage fees incurred on the replacement itinerary.  
+* Documentation relating to replacement-itinerary baggage fees (United outbound documented; return anticipated).  
 * Documentation relating to an impacted Hertz rental vehicle reservation.  
 * Photographic evidence documenting conditions following the cancellation.  
 * A detailed passenger narrative describing the events preceding the cancellation.  
@@ -52,8 +55,8 @@ I respectfully request:
 
 1. Review of our entitlement to compensation under applicable passenger-rights regulations.  
 2. Reimbursement of documented out-of-pocket expenses incurred as a direct consequence of the cancellation.  
-3. Reimbursement of additional baggage fees incurred as a direct consequence of Lufthansa's cancellation and rebooking onto United Airlines, currently totaling $420.00 and subject to final reconciliation upon completion of travel.  
-4. Review of additional documented losses resulting from the disruption.
+3. Reimbursement of United Airlines replacement-itinerary baggage fees as a direct consequence of rebooking: **$210.00 outbound documented**, **$210.00 return anticipated** upon completion of travel.  
+4. Review of additional documented losses resulting from the disruption, including an estimated **$121.39** loss of prepaid Hertz rental value due to approximately two days' delayed pickup.
 
 ---
 
@@ -66,6 +69,10 @@ Flight LH467 was operated by Lufthansa and was cancelled on 23 June 2026\.
 Lufthansa subsequently rebooked our family on an alternative itinerary resulting in an arrival at our final destination approximately two days later than originally scheduled.
 
 Lufthansa's cancellation notice states that the flight was cancelled due to a **"lack of the planned crew."**
+
+This written reason is consistent with what passengers were told onboard. Following prolonged operational delays while the aircraft was boarded—including accommodation of additional passengers, baggage loading delays, and catering issues—the captain advised that the flight crew could no longer legally operate the flight because of duty-hour limitations. On the information presently available, the cancellation therefore appears attributable to the cumulative effect of Lufthansa's operational delays and staffing constraints, rather than an extraordinary circumstance beyond the carrier's control.
+
+Under **Article 9 of EU261**, where passengers face a long delay or rebooking following cancellation, the operating carrier must provide care—including meals, refreshments, and hotel accommodation where necessary—free of charge. Following cancellation of LH467, Lufthansa did not provide hotel accommodation, meal vouchers, or transportation assistance to our family. We have self-funded documented meals and ground transportation to date. As local residents, we returned home rather than pay exceptional hotel rates during a major event in San Diego. We respectfully request that Lufthansa review these out-of-pocket care expenses for reimbursement in addition to any compensation under Article 7.
 
 Based on the information presently available, we respectfully request that Lufthansa review our entitlement to compensation under EU261 and any other applicable passenger-rights regulations.
 
@@ -134,7 +141,7 @@ Arrival in Kraków:
 
 Approximate delay to final destination:
 
-**48 Hours**
+**Approximately Two Days**
 
 ---
 
@@ -162,13 +169,11 @@ Receipt Attached.
 
 Date: 25 June 2026
 
-Amount: **$114.81**
+Anticipated — not yet incurred. Scheduled for approximately 03:00.
 
-Receipt Attached.
+### **Transportation Total (Documented)**
 
-### **Transportation Total**
-
-**$260.10**
+**$145.29**
 
 ---
 
@@ -182,9 +187,47 @@ Amount: **$62.83**
 
 Receipt Attached.
 
-### **Meals Total**
+### **Lunch – 24 June 2026**
 
-**$62.83**
+#### **Burger Lounge Del Sur**
+
+Time: 11:30
+
+Amount: **$15.03**
+
+Receipt attached (Attachment U).
+
+#### **Luna Grill**
+
+Time: 13:42
+
+Amount: **$8.61**
+
+Receipt attached (Attachment V).
+
+#### **Fish District Seafood Kitchen**
+
+Time: 14:56
+
+Amount: **$65.25**
+
+Receipt attached (Attachment V).
+
+**Lunch Subtotal: $88.89**
+
+### **Dinner – 24 June 2026**
+
+#### **Karl Strauss Brewing Company (4S Ranch)**
+
+Time: 20:11
+
+Amount: **$178.80** (includes $30.32 tip)
+
+Receipt attached (Attachment W).
+
+### **Meals Total (Documented)**
+
+**$330.52**
 
 ---
 
@@ -194,9 +237,9 @@ Receipt Attached.
 
 Amount: **$540.00**
 
-Supporting documentation attached.
+Supporting documentation attached: American Express card statement showing six Lufthansa excess baggage charges of $90.00 each.
 
-### 
+---
 
 ## **Replacement Airline Baggage Charges**
 
@@ -208,11 +251,11 @@ Supporting documentation attached.
 
 Return: **$210.00**
 
-Supporting documentation will be attached.
+Anticipated — not yet paid.
 
-### **Baggage Charges Total**
+### **Baggage Charges Total (Documented)**
 
-**$960.00**
+**$750.00**
 
 ---
 
@@ -220,20 +263,20 @@ Supporting documentation will be attached.
 
 | Category | Amount |
 | :---- | :---- |
-| Transportation | $260.10 |
-| Baggage Fees | $960.00 |
-| Meals | $62.83 |
-| **Current Total** | **$1262.93** |
+| Transportation | $145.29 |
+| Baggage Fees | $750.00 |
+| Meals | $330.52 |
+| **Current Total** | **$1,225.81** |
 
 ---
 
-# **Additional Expenses To Be Added**
+# **Anticipated Expenses (Not Yet Incurred)**
 
-The following expenses will be documented and added following completion of travel:
+The following expenses are anticipated but have not yet occurred. Receipts and amounts will be added once incurred:
 
-* Additional meal expenses.  
-* Additional costs directly attributable to the cancellation.  
-* Actual arrival documentation and boarding passes.
+* Return Uber – residence to airport (scheduled approximately 03:00, 25 June 2026).  
+* United Airlines return baggage fees ($210.00).  
+* Additional costs directly attributable to the cancellation.
 
 ---
 
@@ -250,13 +293,10 @@ Baggage Tag Numbers:
 
 Supporting documentation attached:
 
-* Baggage receipts.  
-* Baggage tags.  
-* Original baggage fee documentation.
+* Baggage receipt emails (including baggage tag numbers).  
+* American Express card statement documenting six Lufthansa excess baggage charges of $90.00 each ($540.00 total).
 
-As a direct consequence of Lufthansa's cancellation and rebooking, our family is required to pay additional baggage fees on the replacement itinerary with United Airlines.
-
-Supporting documentation will be provided once travel has been completed.
+As a direct consequence of Lufthansa's cancellation and rebooking, our family incurred additional baggage fees on the replacement itinerary with United Airlines. Outbound fees ($210.00) are paid and receipt attached; return fees ($210.00) are anticipated and not yet paid.
 
 ---
 
@@ -271,7 +311,20 @@ Supporting documentation attached:
 * Reservation confirmation.  
 * Reminder email dated 22 June 2026 at 07:28.
 
-The substantial delay to our arrival in Poland materially impacted previously arranged transportation plans.
+We prepaid **$344.69** for a rental from **24 June 2026 at 17:00** through **29 June 2026 at 12:00** at Kraków Airport. Due to the cancellation of LH467, our arrival was delayed until **26 June 2026 at approximately 09:30**, roughly **40.5 hours** (~two days) after the scheduled pickup.
+
+Because the rental was prepaid, this delay represents prepaid rental time for which we received no value. A pro-rata estimate of that loss is calculated as follows:
+
+| Item | Value |
+| :---- | :---- |
+| Prepaid rental total | $344.69 |
+| Planned rental period | 115 hours (24 Jun 17:00 – 29 Jun 12:00) |
+| Delayed pickup period | 40.5 hours (24 Jun 17:00 – 26 Jun ~09:30) |
+| **Estimated loss of rental value** | **$121.39** |
+
+Calculation: $344.69 × (40.5 ÷ 115) = **$121.39**
+
+We will still use the vehicle from pickup on 26 June through return on 29 June; this figure reflects only the portion of the prepaid rental period lost due to delayed arrival. We respectfully request review of this amount as an additional documented loss arising from the cancellation.
 
 Documentation relating to this reservation has been included for review.
 
