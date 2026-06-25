@@ -33,7 +33,7 @@ Lufthansa's cancellation notice, included within this submission, states that LH
 
 The cancellation occurred after passengers had boarded the aircraft and following a prolonged series of operational delays that were communicated to passengers by Lufthansa personnel and the flight crew.
 
-As a direct consequence of the cancellation, my family has incurred documented transportation, meal, and baggage expenses, and anticipates additional costs upon completion of the replacement itinerary (return ground transportation and return baggage fees). We also experienced disruption to pre-arranged travel arrangements associated with our arrival in Poland.
+As a direct consequence of the cancellation, my family has incurred documented transportation, meal, and baggage expenses, and anticipates United Airlines return baggage fees upon completion of the replacement itinerary. We also experienced disruption to pre-arranged travel arrangements associated with our arrival in Poland.
 
 This submission contains:
 
@@ -165,15 +165,19 @@ Amount: **$114.81**
 
 Receipt attached (Attachment O).
 
-### **Uber – Residence back to Airport**
+### **Uber – Residence to Airport**
 
 Date: 25 June 2026
 
-Anticipated — not yet incurred. Scheduled for approximately 03:00.
+Pickup: **04:05**
+
+Amount: **$112.10**
+
+Receipt attached.
 
 ### **Transportation Total (Documented)**
 
-**$145.29**
+**$257.39**
 
 ---
 
@@ -263,10 +267,10 @@ Anticipated — not yet paid.
 
 | Category | Amount |
 | :---- | :---- |
-| Transportation | $145.29 |
+| Transportation | $257.39 |
 | Baggage Fees | $750.00 |
 | Meals | $330.52 |
-| **Current Total** | **$1,225.81** |
+| **Current Total** | **$1,337.91** |
 
 ---
 
@@ -274,7 +278,6 @@ Anticipated — not yet paid.
 
 The following expenses are anticipated but have not yet occurred. Receipts and amounts will be added once incurred:
 
-* Return Uber – residence to airport (scheduled approximately 03:00, 25 June 2026).  
 * United Airlines return baggage fees ($210.00).  
 * Additional costs directly attributable to the cancellation.
 

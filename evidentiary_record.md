@@ -357,15 +357,19 @@ Amount: **$114.81**
 
 Receipt attached (Attachment O).
 
-### **Uber – Residence back to Airport**
+### **Uber – Residence to Airport**
 
 Date: 25 June 2026
 
-Anticipated — not yet incurred. Scheduled for approximately 03:00.
+Pickup: **04:05**
+
+Amount: **$112.10**
+
+Receipt attached.
 
 ### **Transportation Total (Documented)**
 
-**$145.29**
+**$257.39**
 
 ---
 
@@ -455,12 +459,12 @@ Anticipated — not yet paid.
 
 | Category | Amount |
 | :---- | :---- |
-| Transportation | $145.29 |
+| Transportation | $257.39 |
 | Baggage Fees | $750.00 |
 | Meals | $330.52 |
-| **Current Total** | **$1,225.81** |
+| **Current Total** | **$1,337.91** |
 
-Anticipated expenses not yet incurred will be documented once they occur, including return Uber to the airport (scheduled approximately 03:00, 25 June 2026) and United Airlines return baggage fees ($210.00).
+Anticipated expenses not yet incurred will be documented once they occur, including United Airlines return baggage fees ($210.00).
 
 ---
 
@@ -525,7 +529,7 @@ These photographs are provided to document the conditions experienced by passeng
 | L | Hertz Reminder Email |
 | M | Uber Receipt – Airport to The Melt ($30.48) |
 | N | Meal Receipt – The Melt Gaslamp ($62.83) |
-| O | Uber Receipt – Airport Area to Residence ($114.81); return trip anticipated 25 June ~03:00 |
+| O | Uber Receipt – Airport Area to Residence ($114.81) |
 | P | Witness Photograph |
 | Q | Witness Email Exchange |
 | R | Airport Queue Photograph(s) |
