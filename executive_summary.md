@@ -33,7 +33,7 @@ Lufthansa's cancellation notice, included within this submission, states that LH
 
 The cancellation occurred after passengers had boarded the aircraft and following a prolonged series of operational delays that were communicated to passengers by Lufthansa personnel and the flight crew.
 
-As a direct consequence of the cancellation, my family has incurred and anticipates additional transportation, meal, baggage, and travel-related expenses. We also experienced disruption to pre-arranged travel arrangements associated with our arrival in Poland.
+As a direct consequence of the cancellation, my family has incurred documented transportation, meal, and baggage expenses, and anticipates additional costs upon completion of the replacement itinerary (return ground transportation and return baggage fees). We also experienced disruption to pre-arranged travel arrangements associated with our arrival in Poland.
 
 This submission contains:
 
@@ -155,7 +155,7 @@ Date: 23 June 2026
 
 Amount: **$30.48**
 
-Receipt Attached.
+Receipt attached (Attachment M).
 
 ### **Uber – Airport Area to Residence**
 
@@ -163,7 +163,7 @@ Date: 23 June 2026
 
 Amount: **$114.81**
 
-Receipt Attached.
+Receipt attached (Attachment O).
 
 ### **Uber – Residence back to Airport**
 
@@ -179,13 +179,13 @@ Anticipated — not yet incurred. Scheduled for approximately 03:00.
 
 ## **Meals**
 
-### **The Melt Gaslamp**
+### **Dinner – 23 June 2026**
 
-Date: 23 June 2026
+#### **The Melt Gaslamp**
 
 Amount: **$62.83**
 
-Receipt Attached.
+Receipt attached (Attachment N).
 
 ### **Lunch – 24 June 2026**
 
@@ -221,7 +221,7 @@ Receipt attached (Attachment V).
 
 Time: 20:11
 
-Amount: **$178.80** (includes $30.32 tip)
+Amount: **$178.80**
 
 Receipt attached (Attachment W).
 
@@ -247,7 +247,7 @@ Supporting documentation attached: American Express card statement showing six L
 
 Outbound: **$210.00**
 
-Supporting documentation attached.
+Receipt attached (Attachment J).
 
 Return: **$210.00**
 

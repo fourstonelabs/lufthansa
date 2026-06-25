@@ -347,7 +347,7 @@ Date: 23 June 2026
 
 Amount: **$30.48**
 
-Receipt attached.
+Receipt attached (Attachment M).
 
 ### **Uber – Airport Area to Residence**
 
@@ -355,7 +355,7 @@ Date: 23 June 2026
 
 Amount: **$114.81**
 
-Receipt attached.
+Receipt attached (Attachment O).
 
 ### **Uber – Residence back to Airport**
 
@@ -371,13 +371,13 @@ Anticipated — not yet incurred. Scheduled for approximately 03:00.
 
 ## **Meals**
 
-### **The Melt Gaslamp**
+### **Dinner – 23 June 2026**
 
-Date: 23 June 2026
+#### **The Melt Gaslamp**
 
 Amount: **$62.83**
 
-Receipt attached.
+Receipt attached (Attachment N).
 
 ### **Lunch – 24 June 2026**
 
@@ -413,7 +413,7 @@ Receipt attached (Attachment V).
 
 Time: 20:11
 
-Amount: **$178.80** (includes $30.32 tip)
+Amount: **$178.80**
 
 Receipt attached (Attachment W).
 
@@ -439,7 +439,7 @@ Supporting documentation attached: American Express card statement showing six L
 
 Outbound: **$210.00**
 
-Supporting documentation attached.
+Receipt attached (Attachment J).
 
 Return: **$210.00**
 
