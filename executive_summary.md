@@ -33,17 +33,17 @@ Lufthansa's cancellation notice, included within this submission, states that LH
 
 The cancellation occurred after passengers had boarded the aircraft and following a prolonged series of operational delays that were communicated to passengers by Lufthansa personnel and the flight crew.
 
-As a direct consequence of the cancellation, my family has incurred documented transportation, meal, and baggage expenses, and anticipates United Airlines return baggage fees upon completion of the replacement itinerary. We also experienced disruption to pre-arranged travel arrangements associated with our arrival in Poland.
+As a direct consequence of the cancellation, my family has incurred documented transportation, meal, and baggage expenses. We also experienced disruption to pre-arranged travel arrangements associated with our arrival in Poland.
 
 This submission contains:
 
 * Lufthansa ticket receipts for all four passengers.  
 * Original and rebooked itineraries.  
 * Delay and cancellation notifications.  
-* Checked baggage receipt emails (including baggage tag numbers).  
-* American Express card statement documenting original Lufthansa excess baggage fees (6 × $90.00).  
+* Checked baggage receipt emails (including baggage tag numbers) (Attachment I).  
+* American Express card statement documenting original Lufthansa excess baggage fees (6 × $90.00) (Attachment T).  
 * Transportation and meal receipts.  
-* Documentation relating to replacement-itinerary baggage fees (United outbound documented; return anticipated).  
+* Documentation relating to replacement-itinerary baggage fees (United outbound documented).  
 * Documentation relating to an impacted Hertz rental vehicle reservation.  
 * Photographic evidence documenting conditions following the cancellation.  
 * A detailed passenger narrative describing the events preceding the cancellation.  
@@ -55,7 +55,7 @@ I respectfully request:
 
 1. Review of our entitlement to compensation under applicable passenger-rights regulations.  
 2. Reimbursement of documented out-of-pocket expenses incurred as a direct consequence of the cancellation.  
-3. Reimbursement of United Airlines replacement-itinerary baggage fees as a direct consequence of rebooking: **$210.00 outbound documented**, **$210.00 return anticipated** upon completion of travel.  
+3. Reimbursement of United Airlines replacement-itinerary baggage fees as a direct consequence of rebooking: **$210.00 outbound documented**.  
 4. Review of additional documented losses resulting from the disruption, including an estimated **$121.39** loss of prepaid Hertz rental value due to approximately two days' delayed pickup.
 
 ---
@@ -173,7 +173,7 @@ Pickup: **04:05**
 
 Amount: **$112.10**
 
-Receipt attached.
+Receipt attached (Attachment Y).
 
 ### **Transportation Total (Documented)**
 
@@ -241,7 +241,7 @@ Receipt attached (Attachment W).
 
 Amount: **$540.00**
 
-Supporting documentation attached: American Express card statement showing six Lufthansa excess baggage charges of $90.00 each.
+Supporting documentation attached (Attachment T): American Express card statement showing six Lufthansa excess baggage charges of $90.00 each.
 
 ---
 
@@ -252,10 +252,6 @@ Supporting documentation attached: American Express card statement showing six L
 Outbound: **$210.00**
 
 Receipt attached (Attachment J).
-
-Return: **$210.00**
-
-Anticipated — not yet paid.
 
 ### **Baggage Charges Total (Documented)**
 
@@ -274,15 +270,6 @@ Anticipated — not yet paid.
 
 ---
 
-# **Anticipated Expenses (Not Yet Incurred)**
-
-The following expenses are anticipated but have not yet occurred. Receipts and amounts will be added once incurred:
-
-* United Airlines return baggage fees ($210.00).  
-* Additional costs directly attributable to the cancellation.
-
----
-
 # **Baggage Documentation**
 
 Checked baggage accepted by Lufthansa at approximately 14:37 PDT on 23 June 2026\.
@@ -296,10 +283,10 @@ Baggage Tag Numbers:
 
 Supporting documentation attached:
 
-* Baggage receipt emails (including baggage tag numbers).  
-* American Express card statement documenting six Lufthansa excess baggage charges of $90.00 each ($540.00 total).
+* Baggage receipt emails (including baggage tag numbers) (Attachment I).  
+* American Express card statement documenting six Lufthansa excess baggage charges of $90.00 each ($540.00 total) (Attachment T).
 
-As a direct consequence of Lufthansa's cancellation and rebooking, our family incurred additional baggage fees on the replacement itinerary with United Airlines. Outbound fees ($210.00) are paid and receipt attached; return fees ($210.00) are anticipated and not yet paid.
+As a direct consequence of Lufthansa's cancellation and rebooking, our family incurred additional baggage fees on the replacement itinerary with United Airlines. Outbound fees ($210.00) are paid and receipt attached (Attachment J); checked baggage tags for the replacement itinerary are attached (Attachment X).
 
 ---
 

@@ -40,7 +40,7 @@ Baggage Tag Numbers:
 * 0220272283  
 * 0220272244
 
-Supporting baggage receipt emails are attached.
+Supporting baggage receipt emails are attached (Attachment I).
 
 ---
 
@@ -330,10 +330,10 @@ We paid for three bags on the original itinerary but checked only two at the air
 
 Supporting documentation attached:
 
-* Baggage receipt emails (including baggage tag numbers).  
-* American Express card statement documenting six Lufthansa excess baggage charges of $90.00 each ($540.00 total).
+* Baggage receipt emails (including baggage tag numbers) (Attachment I).  
+* American Express card statement documenting six Lufthansa excess baggage charges of $90.00 each ($540.00 total) (Attachment T).
 
-As a direct consequence of Lufthansa's cancellation and rebooking, additional baggage fees were incurred on the replacement itinerary operated by United Airlines. Outbound fees ($210.00) are paid and receipt attached; return fees ($210.00) are anticipated and not yet paid.
+As a direct consequence of Lufthansa's cancellation and rebooking, additional baggage fees were incurred on the replacement itinerary operated by United Airlines. Outbound fees ($210.00) are paid and receipt attached (Attachment J); checked baggage tags for the replacement itinerary are attached (Attachment X).
 
 ---
 
@@ -365,7 +365,7 @@ Pickup: **04:05**
 
 Amount: **$112.10**
 
-Receipt attached.
+Receipt attached (Attachment Y).
 
 ### **Transportation Total (Documented)**
 
@@ -433,7 +433,7 @@ Receipt attached (Attachment W).
 
 Amount: **$540.00**
 
-Supporting documentation attached: American Express card statement showing six Lufthansa excess baggage charges of $90.00 each.
+Supporting documentation attached (Attachment T): American Express card statement showing six Lufthansa excess baggage charges of $90.00 each.
 
 ---
 
@@ -444,10 +444,6 @@ Supporting documentation attached: American Express card statement showing six L
 Outbound: **$210.00**
 
 Receipt attached (Attachment J).
-
-Return: **$210.00**
-
-Anticipated — not yet paid.
 
 ### **Baggage Charges Total (Documented)**
 
@@ -463,8 +459,6 @@ Anticipated — not yet paid.
 | Baggage Fees | $750.00 |
 | Meals | $330.52 |
 | **Current Total** | **$1,337.91** |
-
-Anticipated expenses not yet incurred will be documented once they occur, including United Airlines return baggage fees ($210.00).
 
 ---
 
@@ -538,6 +532,8 @@ These photographs are provided to document the conditions experienced by passeng
 | U | Lunch Receipt – Burger Lounge Del Sur ($15.03) |
 | V | Lunch Receipts – Luna Grill ($8.61) and Fish District ($65.25) |
 | W | Dinner Receipt – Karl Strauss Brewing Company ($178.80) |
+| X | United Airlines Checked Baggage Tags – replacement itinerary (UA1069/LO2098; tags 025910, 025911) |
+| Y | Uber Receipt – Residence to Airport ($112.10; pickup 04:05, 25 June 2026) |
 
 ---
 
