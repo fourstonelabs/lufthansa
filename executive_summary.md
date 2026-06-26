@@ -290,6 +290,10 @@ As a direct consequence of Lufthansa's cancellation and rebooking, our family in
 
 ---
 
+```{=latex}
+\newpage
+```
+
 # **Hertz Rental Vehicle Impact**
 
 Reservation Confirmation:
@@ -317,6 +321,14 @@ Calculation: $344.69 × (40.5 ÷ 115) = **$121.39**
 We will still use the vehicle from pickup on 26 June through return on 29 June; this figure reflects only the portion of the prepaid rental period lost due to delayed arrival. We respectfully request review of this amount as an additional documented loss arising from the cancellation.
 
 Documentation relating to this reservation has been included for review.
+
+---
+
+# **Submission Attempt — Fast Compensation Form**
+
+On **26 June 2026**, we attempted to submit this claim via Lufthansa's Fast Compensation online form ([lufthansa.com/us/en/fast-compensation](https://www.lufthansa.com/us/en/fast-compensation.html)). After completing passenger details, expense entries, and receipt uploads, the form returned an **"unexpected error"** and did not accept the submission. A screenshot of the error is attached (**Attachment Z**).
+
+Because the online portal could not process the claim, this package is being submitted by **email** (and by mail if required), with the same documentation listed in this submission.
 
 ---
 

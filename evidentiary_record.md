@@ -462,6 +462,10 @@ Receipt attached (Attachment J).
 
 ---
 
+```{=latex}
+\newpage
+```
+
 # **8\. Hertz Rental Vehicle Impact**
 
 Reservation Confirmation:
@@ -534,6 +538,15 @@ These photographs are provided to document the conditions experienced by passeng
 | W | Dinner Receipt – Karl Strauss Brewing Company ($178.80) |
 | X | United Airlines Checked Baggage Tags – replacement itinerary (UA1069/LO2098; tags 025910, 025911) |
 | Y | Uber Receipt – Residence to Airport ($112.10; pickup 04:05, 25 June 2026) |
+| Z | Lufthansa Fast Compensation Form Error Screenshot (26 Jun 2026) |
+
+---
+
+# **11\. Online Submission Failure**
+
+On **26 June 2026**, we attempted to file this claim using Lufthansa's Fast Compensation web form. After entering booking and passenger information and uploading expense receipts, the form displayed an **unexpected error** and would not complete submission. Supporting screenshot attached (**Attachment Z**).
+
+This claim package is therefore being submitted by **email** to Lufthansa Customer Relations, with the full evidence bundle attached.
 
 ---
 
